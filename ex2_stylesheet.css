@@ -1,0 +1,37 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+
+#titulo {
+    font-family: monospace;
+}
+
+p {
+    font-family: sans-sarifa, serif;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+
+#link1 {
+    color: darkblue;
+}
+
+#link2 {
+
+    color: pink;
+}
+
+#link3 {
+    color: green;
+}
+
+#link1:hover, #link2:hover, #link3:hover {
+    color: gold;
+}
